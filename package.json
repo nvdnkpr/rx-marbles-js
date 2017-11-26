@@ -1,0 +1,21 @@
+{
+  "name": "rx-marbles",
+  "version": "0.1.0",
+  "description": "Port of rx-Marbles (https://bitbucket.org/achary/rx-marbles) from Python to Typescript/Javasript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navid Nikpour <navid@nikpour.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-tslint": "^8.1.2",
+    "gulp-typescript": "^3.2.3",
+    "tslint": "^5.8.0",
+    "typescript": "^2.6.1"
+  },
+  "dependencies": {
+    "sprintf": "^0.1.5"
+  }
+}
